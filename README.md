@@ -47,6 +47,6 @@ You can also contact me at samuelsong18@gmail.com!
 ## Tests 
 To use test the application:
 ```
-All you have to do is go into terminal and type node index.js in the correct file and boom 
+All you have to do is go into terminal and type node index.js. Make sure you are in the correct location.
 ```
 ![](https://github.com/samsong1019/ProReadMeGenerator/blob/main/assets/GIFT.gif/demogif.gif)
