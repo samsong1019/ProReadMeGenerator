@@ -41,4 +41,4 @@ To use test the application:
 ```
 All you have to do is go into terminal and type node index.js in the correct file and boom 
 ```
-https://github.com/samsong1019/ProReadMeGenerator/blob/main/assets/GIFT.gif/demogif.gif
+![](https://github.com/samsong1019/ProReadMeGenerator/blob/main/assets/GIFT.gif/demogif.gif)
